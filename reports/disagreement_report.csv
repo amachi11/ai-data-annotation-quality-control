@@ -1,0 +1,5 @@
+id,field,primary_label,second_label,text
+6,urgency,LOW,MEDIUM,"Great, another package that arrived late."
+8,urgency,MEDIUM,HIGH,"I can't log in and the password reset link keeps expiring."
+12,urgency,MEDIUM,HIGH,"My package says delivered but nothing is at my door."
+15,sentiment,MIXED,NEGATIVE,"The item looks different from the photos but I think I can still use it."
